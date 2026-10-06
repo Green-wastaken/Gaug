@@ -4,7 +4,4 @@ Gaug is a lightweight, embeddable modern programming language designed to keep p
 
 Gaug already comes equipped with many features, including HTTP library support, complex mathematical equation support, embeddability, expandability, etc.
 
-Examples:
-```gaug
-print("Hello");
-```
+More features will be added as the language grows!
